@@ -1,4 +1,4 @@
-# typecorr
+# sample vim plugs
 
-Sample vim plugin in [vim official doc](http://vim-jp.org/vimdoc-ja/usr_41.html).
+Sample vim plugins in [vim official doc](http://vim-jp.org/vimdoc-ja/usr_41.html).
 
